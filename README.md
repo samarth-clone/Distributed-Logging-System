@@ -1,6 +1,4 @@
-# RR-Team-82-distributed-logging-system
-
-# Distributed Logging Application
+# A PoC Distributed Logging Application
 
 ## Contributors
 
