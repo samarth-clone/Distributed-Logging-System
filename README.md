@@ -14,6 +14,7 @@ This project is a distributed logging application designed for robust and effici
 
 ---
 
+
 ## Architecture
 
 ### Components
@@ -40,6 +41,8 @@ This project is a distributed logging application designed for robust and effici
 5. **Logger**:
    - Implemented in `logger.go`.
    - Generates and broadcasts logs across the system.
+
+<img width="2973" height="2505" alt="image" src="https://github.com/user-attachments/assets/ffefeb82-f47f-44a9-8afc-e68f84ba8a12" />
 
 ---
 
